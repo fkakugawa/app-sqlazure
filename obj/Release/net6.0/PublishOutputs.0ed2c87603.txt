@@ -1,0 +1,14 @@
+C:\Documentos\Projetos\Alura\modulo02\app-sqlazure\bin\Release\net6.0\publish\app-sqlazure.exe
+C:\Documentos\Projetos\Alura\modulo02\app-sqlazure\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Documentos\Projetos\Alura\modulo02\app-sqlazure\bin\Release\net6.0\publish\appsettings.json
+C:\Documentos\Projetos\Alura\modulo02\app-sqlazure\bin\Release\net6.0\publish\app-sqlazure.dll
+C:\Documentos\Projetos\Alura\modulo02\app-sqlazure\bin\Release\net6.0\publish\app-sqlazure.deps.json
+C:\Documentos\Projetos\Alura\modulo02\app-sqlazure\bin\Release\net6.0\publish\app-sqlazure.runtimeconfig.json
+C:\Documentos\Projetos\Alura\modulo02\app-sqlazure\bin\Release\net6.0\publish\app-sqlazure.pdb
+C:\Documentos\Projetos\Alura\modulo02\app-sqlazure\bin\Release\net6.0\publish\Dapper.dll
+C:\Documentos\Projetos\Alura\modulo02\app-sqlazure\bin\Release\net6.0\publish\System.Data.SqlClient.dll
+C:\Documentos\Projetos\Alura\modulo02\app-sqlazure\bin\Release\net6.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Documentos\Projetos\Alura\modulo02\app-sqlazure\bin\Release\net6.0\publish\runtimes\win-x64\native\sni.dll
+C:\Documentos\Projetos\Alura\modulo02\app-sqlazure\bin\Release\net6.0\publish\runtimes\win-x86\native\sni.dll
+C:\Documentos\Projetos\Alura\modulo02\app-sqlazure\bin\Release\net6.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Documentos\Projetos\Alura\modulo02\app-sqlazure\bin\Release\net6.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

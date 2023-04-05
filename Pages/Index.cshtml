@@ -1,0 +1,40 @@
+﻿@page
+@model IndexModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@inject IClienteRepository repo
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+    <form method="post">
+        Nome: <input asp-for="Cliente.Nome" /><br/>
+        Email: <input asp-for="Cliente.Email" /><br/>
+        <input type="submit" value="Incluir" />
+    </form>
+
+
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th>Id</th>
+                
+                <th>Nome</th>
+                <th>Email</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in repo.GetAll())
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Nome</td>
+                    <td>@item.Email</td>
+                </tr>                
+            }   
+        </tbody>
+    </table>
+</div>
